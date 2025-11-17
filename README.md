@@ -25,14 +25,10 @@ I am 38 years old.
 - 👨🏻‍💻  Windows Server, Ubuntu Server, Mac Os
 
 ## Contact
-- [@barckl3y](https://www.facebook.com/barckl3y) on Facebook
-- [@barckl3y](https://www.twitter.com/barckl3y) on Twitter
+- [@barckl3y](https://www.linkedin.com/in/barckl3y/) on Linkedin
 - [@barckl3y](https://www.instagram.com/barckl3y) on Instagram
 - [@barckl3y](https://www.github.com/barckl3y) on Github
 - <a href="mailto:hola@barckl3y.dev?Subject=Say Hello!">hola@barckl3y.dev</a> Send me an email
-- [barckl3y#3121](./) on Discord
-
-- [@barckl3y](https://www.linkedin.com/in/barckl3y/) on Linkedin
 
 - 💬 DM For More Info
 - 🕴🏻@barckl3y🕴🏻
