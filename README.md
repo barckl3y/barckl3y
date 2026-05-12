@@ -3,7 +3,7 @@ Full Stack Web Developer | Python | Django | React Native
 <hr>
 
 
-I am 38 years old.
+I am 39 years old.
 
 - 🖥 System's Engineer
 - 👨🏻‍💻 Web Developer (Python & Django Developer, Django Rest Framework)
@@ -13,7 +13,7 @@ I am 38 years old.
 
 ## For the moment
 
-- 👥  I worked in a public company called Mintel (Ministerio de Telecomunicaciones) as Developer . I had been working there for 2 years.
+- 👥  I worked in a public company called Mintel (Ministerio de Telecomunicaciones) as Developer . I had been working there for 4 years.
 - 👥  I worked in a public company called Dinardap as Developer (Full Time). I had been working there for 13 years.
 - 🧭  I am freelance and CEO of Webuggers in my Free Time ; In this place we make custom computer programs.
 
